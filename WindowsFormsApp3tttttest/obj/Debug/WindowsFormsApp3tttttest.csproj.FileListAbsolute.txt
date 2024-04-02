@@ -1,0 +1,4 @@
+C:\Users\MONSTERMC\source\repos\WindowsFormsApp3tttttest\WindowsFormsApp3tttttest\obj\Debug\WindowsFormsApp3tttttest.csproj.AssemblyReference.cache
+C:\Users\MONSTERMC\source\repos\WindowsFormsApp3tttttest\WindowsFormsApp3tttttest\obj\Debug\WindowsFormsApp3tttttest.Properties.Resources.resources
+C:\Users\MONSTERMC\source\repos\WindowsFormsApp3tttttest\WindowsFormsApp3tttttest\obj\Debug\WindowsFormsApp3tttttest.csproj.GenerateResource.cache
+C:\Users\MONSTERMC\source\repos\WindowsFormsApp3tttttest\WindowsFormsApp3tttttest\obj\Debug\WindowsFormsApp3tttttest.csproj.CoreCompileInputs.cache
